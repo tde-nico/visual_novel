@@ -1,0 +1,18 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/script.rpy", line 31: expected statement.
+    choice_a:
+            ^
+
+File "game/script.rpy", line 35: expected statement.
+    choice_b:
+            ^
+
+File "game/script.rpy", line 38: expected statement.
+    common:
+          ^
+
+Ren'Py Version: Ren'Py 7.4.11.2266
+Thu Jun 16 21:47:51 2022
